@@ -1,3 +1,3 @@
-# :boat: Nautilus
+# ⛴️ Nautilus
 
-SOL server for Solana
+Shipping Solana tools
